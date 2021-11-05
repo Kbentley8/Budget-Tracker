@@ -9,7 +9,7 @@ request.onupgradeneeded = function(event) {
     db.createObjectStore('new_transaction', { autoIncrement: true });
 };
 
-// upon a successful 
+// if successful 
 request.onsuccess = function(event) {
     // when db is successfully created with its object store 
     db = event.target.result;
