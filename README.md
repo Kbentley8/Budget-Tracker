@@ -10,7 +10,10 @@ This  application that helps users to add expenses and deposits to their budget 
 ## Screenshots
 
 
-![Screen Shot 2021-11-05 at 4 46 43 PM](https://user-images.githubusercontent.com/88289885/140576467-9610e680-fed8-4dd0-a6eb-488aca623247.png
+![Screen Shot 2021-11-05 at 4 46 43 PM](https://user-images.githubusercontent.com/88289885/140576467-9610e680-fed8-4dd0-a6eb-488aca623247.png)
+
+![Screen Shot 2021-11-05 at 4 47 47 PM](https://user-images.githubusercontent.com/88289885/140576530-1c2abc7d-c7fe-41a5-9414-939d71271572.png)
+)
 
 Link to Deployed app on Heroku: [Budget Tracker]()
 
