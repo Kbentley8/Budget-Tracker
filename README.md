@@ -5,7 +5,7 @@
 
 ## Description
 
-This  application that helps users to add expenses and deposits to their budget with or without the use of a internet connection. If the user enters transactions offline, the changes will be reflected when they're brought back online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
+This  application that helps users to add expenses and deposits to their budget with or without the use of a internet connection. If the user inputs transactions offline, the changes shown when they return online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
 
 ## Screenshots
 
