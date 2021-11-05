@@ -1,11 +1,10 @@
 # Budget-Tracker
 
-
 ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 
-This  application that helps users to add expenses and deposits to their budget with or without the use of a internet connection. If the user inputs transactions offline, the changes shown when they return online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
+This application that helps users to add expenses and deposits to their budget with or without the use of a internet connection. If the user inputs transactions offline, the changes shown when they return online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
 
 ## Screenshots
 
@@ -15,7 +14,7 @@ This  application that helps users to add expenses and deposits to their budget 
 ![Screen Shot 2021-11-05 at 4 47 47 PM](https://user-images.githubusercontent.com/88289885/140576530-1c2abc7d-c7fe-41a5-9414-939d71271572.png)
 )
 
-Link to Deployed app on Heroku: [Budget Tracker]()
+Link to Deployed app on Heroku: [Budget Tracker](https://fathomless-badlands-72710.herokuapp.com/)
 
 ## Table of Contents
 
