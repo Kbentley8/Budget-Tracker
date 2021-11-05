@@ -4,7 +4,7 @@
 
 ## Description
 
-This application that helps users to add expenses and deposits to their budget with or without the use of a internet connection. If the user inputs transactions offline, the changes shown when they return online. This application uses IndexDB, Service workers, and Web Manifest for offline functionality and is deployed on Heroku.
+This application that helps users to add expenses and deposits to their budget with or without the use of a internet connection. If the user inputs transactions offline, the changes shown when they return online. This application utilizes IndexDB, Service workers, and Web Manifest for offline functionality and uses Heroku for deployment.
 
 ## Screenshots
 
@@ -12,7 +12,7 @@ This application that helps users to add expenses and deposits to their budget w
 ![Screen Shot 2021-11-05 at 4 46 43 PM](https://user-images.githubusercontent.com/88289885/140576467-9610e680-fed8-4dd0-a6eb-488aca623247.png)
 
 ![Screen Shot 2021-11-05 at 4 47 47 PM](https://user-images.githubusercontent.com/88289885/140576530-1c2abc7d-c7fe-41a5-9414-939d71271572.png)
-)
+
 
 Link to Deployed app on Heroku: [Budget Tracker](https://fathomless-badlands-72710.herokuapp.com/)
 
@@ -32,7 +32,7 @@ Link to Deployed app on Heroku: [Budget Tracker](https://fathomless-badlands-727
 
 ## Installation
 
-The clone the repo to a local machine, the user must first install their depencies 
+To clone the repo to a local machine, the user must first install their dependencies 
 by runninng  the following command:
 
     npm i
