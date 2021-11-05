@@ -33,7 +33,7 @@ Link to Deployed app on Heroku: [Budget Tracker](https://fathomless-badlands-727
 ## Installation
 
 To clone the repo to a local machine, the user must first install their dependencies 
-by runninng  the following command:
+by running  the following command:
 
     npm i
 
